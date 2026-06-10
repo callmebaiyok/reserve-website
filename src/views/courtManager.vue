@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { apiService, CourtType, Court } from '../service/apiServices';
+import type { Court, CourtType }  from '../service/apiServices';
 
 // State management
 const courtTypes = ref<CourtType[]>([]);

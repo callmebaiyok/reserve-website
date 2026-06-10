@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import Badminton from '../components/reservebadminton/Badminton.vue'
+import HomeView from '../views/Homeview.vue'
+import Badminton from '../views/Badminton.vue'
 import TicketsView from '../views/TicketsView.vue'
 import LoginPage from '../views/LoginPage.vue'
 import CourtSchedule from '../views/CourtSchedule.vue'
