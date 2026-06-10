@@ -64,7 +64,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import badmintonImg from '../assets/shuttlecock.png'
-import footballImg from '../assets/Football.png'
+import footballImg from '../assets/football.png'
 import { useRouter } from 'vue-router'
 import {CalendarDays, User, MonitorSmartphone} from 'lucide-vue-next'
 
