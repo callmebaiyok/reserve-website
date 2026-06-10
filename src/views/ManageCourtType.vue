@@ -1,6 +1,3 @@
-นี่คือโค้ดสมบูรณ์ครับ:
-
-```vue
 <template>
   <div class="page-wrapper">
     <NavBarAdmin />

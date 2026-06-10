@@ -1,6 +1,6 @@
 <template>
   <div class="admin-page">
-    <h1>คืน Tickets ให้ผู้ใช้งาน</h1>
+    <h1>ประวัติการคืน Tickets ให้ผู้แก่ใช้งาน</h1>
 
     <div class="main-layout">
       <!-- LEFT -->
@@ -8,7 +8,7 @@
 
         <!-- Section 1 -->
         <div class="section-card">
-          <h2>1. เลือกรายการจองที่ต้องการคืน Tickets</h2>
+          <h2>1. ประวัติการคืน Tickets</h2>
 
           <div class="filter-bar">
             <div class="filter-item">
