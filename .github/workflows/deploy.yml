@@ -16,6 +16,8 @@ jobs:
           node-version: 20
 
       - name: Install & Build
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
         run: |
           npm install
           npm run build
